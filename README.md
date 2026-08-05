@@ -143,7 +143,7 @@ are in the accompanying regression test documents.
   since those are added for automation and survive restyling.
 - `allure-results/`, `allure-report/`, `report.html`, and `venv/` are generated
   output and are gitignored.
-```
+
 
 
 
